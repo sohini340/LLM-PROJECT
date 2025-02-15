@@ -1,0 +1,16 @@
+fastapi
+pydantic
+python-dotenv
+httpx
+numpy
+pillow
+requests
+beautifulsoup4
+markdown
+docstring-parser
+scikit-learn
+duckdb
+faker
+python-dateutil
+pytest
+uvicorn
